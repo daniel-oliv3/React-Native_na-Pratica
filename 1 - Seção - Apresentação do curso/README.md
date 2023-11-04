@@ -134,17 +134,29 @@ choco install -y nodejs-lts microsoft-openjdk11
 - Android Virtual Device
 
 
-**New**
+**New resumo**
 
 - Cria o projeto React Native
 ```
-npx create-expo-app react-native_05
+npx react-native@latest init react-native_05
 ```
 
 - Roda o projeto
 ```
-npx expo start
+npm start
 ```
+
+- Painel de controle
+- variaveis de ambiente
+```
+ANDROID_HOME
+```
+
+```
+C:\Users\Daniel_Oliveira\AppData\Local\Android\Sdk
+```
+
+- C:\Users\Daniel_Oliveira\AppData\Local\Android\Sdk
 
 - Exemplo:
   - react-native_05
