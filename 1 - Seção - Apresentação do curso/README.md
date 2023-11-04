@@ -156,7 +156,14 @@ ANDROID_HOME
 C:\Users\Daniel_Oliveira\AppData\Local\Android\Sdk
 ```
 
+- global
+```
+Get-ChildItem -Path Env:\ 
+```
+
 - C:\Users\Daniel_Oliveira\AppData\Local\Android\Sdk
+
+- Error
 
 - Exemplo:
   - react-native_05
