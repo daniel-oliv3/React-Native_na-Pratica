@@ -62,9 +62,21 @@ npx expo start
   - react-native_03
 
 
+### 4 - Criando o projeto
 
+**HomeBrew** (Linux, Mac)
 
+- O gerenciador de pacotes que faltava para o macOS (ou Linux)
+  - Link: https://brew.sh/
 
+**Create**
 
+- Cria o projeto na ultima versão, com TypeScript
+```
+npx react-native@latest init react-native_04 --template react-native-template-typescript
+```
+
+- Exemplo:
+  - react-native_04
 
 
