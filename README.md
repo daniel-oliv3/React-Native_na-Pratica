@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="...." src="./assets/ReactNativeFeaturedImage.png" width="80%">
+  <img alt="...." src="./assets/ReactNativeFeaturedImage.png" width="100%">
 </p>
 
 
