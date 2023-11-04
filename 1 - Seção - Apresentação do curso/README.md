@@ -48,3 +48,12 @@ npx expo start
 
 - Exemplo:
   - react-native_01
+
+
+### 2 - Organização do curso
+
+- Exemplo:
+  - react-native_02
+
+
+
